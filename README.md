@@ -1,4 +1,4 @@
-Hi! My name is Kai Guo (郭凯). I’m a master’s student from the College of Computer Science, Sichuan University.
+Hi! My name is Kai Guo. I’m a master’s student from the College of Computer Science, Sichuan University.
 
 My research interests lie in **multimodal learning** and **continual learning**, with a focus on disentangling and enhancing the robustness of multi-view representations, as well as on developing methods for multimodal continual learning.
 
